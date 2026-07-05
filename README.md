@@ -10,10 +10,10 @@
 
 <div align="center">
   <!-- Auto-updating Commits, PRs, and Issues -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=navneetsingh-dev&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=navneetsingh-dev&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
   
   <!-- Auto-updating Top Languages Chart -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetsingh-dev&layout=compact&theme=gruvbox" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=navneetsingh-dev&layout=compact&theme=gruvbox" />
 </div>
 
 ---
